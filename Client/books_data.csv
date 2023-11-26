@@ -1,0 +1,21 @@
+BookID,Title,Author,Price
+BK001,To Kill a Mockingbird,Harper Lee,$5.00
+BK002,1984,George Orwell,$10.00
+BK003,Pride and Prejudice,Jane Austen,$15.00
+BK004,The Great Gatsby,F. Scott Fitzgerald,$20.00
+BK005,The Catcher in the Rye,J.D. Salinger,$25.00
+BK006,The Hobbit,J.R.R. Tolkien,$30.00
+BK007,Fahrenheit 451,Ray Bradbury,$35.00
+BK008,Jane Eyre,Charlotte Brontë,$40.00
+BK009,Animal Farm,George Orwell,$45.00
+BK010,Lord of the Flies,William Golding,$50.00
+BK011,The Alchemist,Paulo Coelho,$55.00
+BK012,Harry Potter and the Philosopher's Stone,J.K. Rowling,$60.00
+BK013,The Lord of the Rings,J.R.R. Tolkien,$65.00
+BK014,The Grapes of Wrath,John Steinbeck,$70.00
+BK015,One Hundred Years of Solitude,Gabriel García Márquez,$75.00
+BK016,The Diary of a Young Girl,Anne Frank,$80.00
+BK017,The Little Prince,Antoine de Saint-Exupéry,$85.00
+BK018,Brave New World,Aldous Huxley,$90.00
+BK019,The Chronicles of Narnia,C.S. Lewis,$95.00
+BK020,Moby Dick,Herman Melville,$100.00

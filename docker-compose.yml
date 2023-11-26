@@ -1,0 +1,28 @@
+version: '3.8'
+services:
+  server:
+    build: ./Server
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./Server:/app
+    restart: always
+    depends_on:
+      - db
+  client:
+    build: ./Client
+    ports:
+      - "8081:8080"
+    volumes:
+      - ./Client:/app
+    restart: always
+    depends_on:
+      - server
+      - db
+  db:
+    image: mysql:5.7
+    environment:
+      MYSQL_ROOT_PASSWORD: "root"
+    ports:
+      - "3306:3306"
+      -
