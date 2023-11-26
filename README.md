@@ -91,6 +91,10 @@ Make sure to copy the generated files to both `client` and `server` directories.
 
 As we are using python we only need to generate the code for python but if you are using a different language then you will need to generate the code for that language as well.
 
+## Future Scope
+
+- Use `FastAPI` as the API Gateway, to get the requests from the `client` and send it to the `server`.
+
 ## Contribution
 Guidelines for contributing to the project.
 
